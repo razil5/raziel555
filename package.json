@@ -1,0 +1,22 @@
+{
+  "name": "raziel555",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razil5/raziel555.git"
+  },
+  "author": "razil5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razil5/raziel555.git"
+  },
+  "homepage": "https://github.com/razil5/raziel555.git",
+  "dependencies": {
+    "sample123package": "^1.0.0"
+  }
+}
